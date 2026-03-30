@@ -2,8 +2,8 @@
 This project examines reproducibility in data science by attempting to replicate key results from the paper *"Macroeconomic Forecasting with Large Language Models"* using the FRED-MD dataset.
 
 ## References
-- Paper: `https://arxiv.org/abs/2402.01801`
-- Dataset (FRED-MD): `https://research.stlouisfed.org/econ/mccracken/fred-databases/`
+- Paper: https://arxiv.org/abs/2402.01801
+- Dataset (FRED-MD): https://research.stlouisfed.org/econ/mccracken/fred-databases/
 
 ## Objective
 - Reproduce core forecasting methods from the paper  
